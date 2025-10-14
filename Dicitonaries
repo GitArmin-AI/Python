@@ -1,0 +1,7 @@
+zahlen_dict = {
+    "eins": 1,
+    "zwei": 2,
+    "drei": 3
+}
+
+print(zahlen_dict)
